@@ -1,9 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native-web';
 import { NavigationContainer } from '@react-navigation/native';
-
-
-i
 import { createStackNavigator } from '@react-navigation/stack';
 function HomeScreen() {
     return (
